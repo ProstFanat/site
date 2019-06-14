@@ -1,0 +1,232 @@
+body{
+    background-color: #ffffff;
+}
+
+#wrapper{
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.bg_color {
+    outline: 1px solid #cc0000;
+    margin: inherit;
+    background-color: #f6f2f2;
+}
+
+#header {
+    width: 1250px;
+    height: 90px;
+    background-color: #313030;
+    outline: 0px solid #cc0000;
+}
+
+a {
+    font: 14px Bold;
+    color: #dfdfdf;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#home {
+    float:left;
+    text-align: center;
+    line-height: 90px;
+    height:90px;
+    width:90px;
+    outline: 0px solid #cc0000;
+}
+
+#portfolio {
+    float:left;
+    text-align: center;
+    line-height: 90px;
+    height:90px;
+    width:130px;
+    outline: 0px solid #cc0000;
+}
+
+#about {
+    float:left;
+    text-align: center;
+    line-height: 90px;
+    height:90px;
+    width:130px;
+    outline: 0px solid #cc0000;
+}
+
+#contact{
+    float:left;
+    text-align: center;
+    line-height: 90px;
+    height:90px;
+    width:130px;
+    outline: 0px solid #cc0000;
+}
+
+#menu{
+    padding-left: 355px;
+}
+
+.clear {
+    clear:both;
+}
+
+#h_c_text {
+    float:left;
+    outline: 0px solid #cc0000;
+    width: 580px;
+}
+
+#home:hover, #portfolio:hover, #about:hover, #contact:hover {
+    background-color: #ff3f40;
+}
+
+#home_content {
+    margin-top:60px;
+    outline: 0px solid #cc0000;
+    padding-bottom: 65px;
+}
+
+.h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 46px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+.h_c_text_p  {
+    font-family: 'Open Sans', sans-serif;
+    font-size:16px;
+    color: #7b7979;
+}
+
+#button_mail {
+    height: 55px;
+    width: 227px;
+    text-align: center;
+    outline: 0px solid #cc0000;
+    margin: 55px 0;
+    background-image: url(images/button_mail.png);
+    background-repeat: no-repeat;
+}
+
+#button_mail p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 55px;
+    color: #ffffff;
+}
+
+#h_c_video {
+    position: relative;
+    top:45px;
+    left:120px;
+}
+
+#zag{
+    margin-bottom: -10px;
+}
+
+#portfolio_content {
+    outline: 0px solid #cc0000;
+    height: 705px;
+}
+
+#portfolio_zag {
+    font: 30px 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-weight: bold;
+    padding-bottom:10px ;
+}
+
+#portfolio_text {
+    font: 16px 'Open Sans', sans-serif;
+    color: #000000;
+}
+
+#portfolio_left {
+    margin-top: 80px;
+    float:left;
+    outline: 0px solid #cc0000;
+    width: 520px;
+}
+
+#button_learn {
+    margin-top: 50px;
+    width: 227px;
+    height: 55px;
+    text-align: center;
+    background-image: url(images/button_about.png);
+    background-repeat: no-repeat;
+}
+
+#button_learn p {
+    color: #FF0000;
+    font: 14px 'Open Sans', sans-serif;
+    font-weight: bold;
+    line-height: 55px;
+}
+
+#portfolio_right {
+    margin-top:80px;
+    margin-left: 120px;
+    float:left;
+    height: 550px;
+    width: 590px;
+    outline: 0px solid #cc0000;
+}
+
+.portfolio_text {
+    font: 14px 'Open Sans', sans-serif;
+    color: #737373;
+    line-height: 28px;
+}
+
+#management {
+    height: 210px;
+    width: 270px;
+    margin-top: 40px;
+    float:left;
+}
+
+#ui {
+    height: 210px;
+    width: 270px;
+    margin-top: 40px;
+    margin-left: 50px;
+    float:left;
+}
+
+#logo {
+    height: 210px;
+    width: 270px;
+    float:left;
+    margin-top: 50px;
+}
+
+#animation{
+    height: 210px;
+    width: 270px;
+    float:left;
+    margin-left:50px;
+    margin-top: 50px;
+}
+
+#portfolio_top {
+    height: 220px;
+}
+
+#portfolio_bottom {
+    height:220px;
+
+}
+
+.portfolio_zag {
+    font: 19px 'Open Sans', sans-serif;
+    color: #737373;
+    font-weight: bold;
+
+}
+
+
